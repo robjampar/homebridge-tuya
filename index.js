@@ -16,7 +16,7 @@ const SimpleBlindsAccessory = require('./lib/SimpleBlindsAccessory');
 const SimpleHeaterAccessory = require('./lib/SimpleHeaterAccessory');
 const ContactSensorAccessory = require('./lib/ContactSensorAccessory');
 
-const PLUGIN_NAME = 'homebridge-tuya-lan';
+const PLUGIN_NAME = 'homebridge-tuya-lan-robjampar';
 const PLATFORM_NAME = 'TuyaLan';
 
 const CLASS_DEF = {
