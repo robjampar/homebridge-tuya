@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robjampar/homebridge-tuya-lan.git"
+    "url": "git+https://github.com/robjampar/homebridge-tuya-lan-robjampar.git"
   },
   "author": "robjampar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/robjampar/homebridge-tuya-lan/issues"
+    "url": "https://github.com/robjampar/homebridge-tuya-lan-robjampar/issues"
   },
-  "homepage": "https://github.com/robjampar/homebridge-tuya-lan#readme",
+  "homepage": "https://github.com/robjampar/homebridge-tuya-lan-robjampar#readme",
   "dependencies": {
     "async": "^3.1.0",
     "commander": "^3.0.1",
