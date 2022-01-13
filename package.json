@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-tuya-lan-robjampar",
-  "version": "1.5.5",
+  "name": "@robjampar/homebridge-tuya",
+  "version": "0.1",
   "description": "Homebridge plugin for IoT devices that use Tuya Smart's platform",
   "main": "index.js",
   "scripts": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robjampar/homebridge-tuya-lan-robjampar.git"
+    "url": "git+https://github.com/robjampar/homebridge-tuya.git"
   },
   "author": "robjampar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/robjampar/homebridge-tuya-lan-robjampar/issues"
+    "url": "https://github.com/robjampar/homebridge-tuya/issues"
   },
-  "homepage": "https://github.com/robjampar/homebridge-tuya-lan-robjampar#readme",
+  "homepage": "https://github.com/robjampar/homebridge-tuya#readme",
   "dependencies": {
     "async": "^3.1.0",
     "commander": "^3.0.1",
