@@ -1,6 +1,6 @@
 {
   "name": "@robjampar/homebridge-tuya",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Homebridge plugin for IoT devices that use Tuya Smart's platform",
   "main": "index.js",
   "scripts": {
