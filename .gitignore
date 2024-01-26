@@ -6,3 +6,5 @@
 /bin/certs
 /bin/keys
 /dev
+.idea
+.DS_Store
